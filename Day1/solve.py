@@ -1,4 +1,4 @@
-inputFile = open(r'C:\Users\RIFAT\Desktop\adventOfCode2018\Day1\input.txt', "r")
+inputFile = open('input.txt', "r")
 lines = inputFile.readlines()
 
 def partOne():
