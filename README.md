@@ -3,7 +3,7 @@
 Back to basic programming practice after a long time 😪
 **Advent of Code** is a Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.
 
-To start with [go here](https://adventofcode.com/2018/](https://adventofcode.com/2018/)) and log in, thats it!
+To start with [go here](https://adventofcode.com/2018/)) and log in, thats it!
 
 
 ## List of Contents
