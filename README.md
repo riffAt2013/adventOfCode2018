@@ -10,4 +10,5 @@ To start with [go here](https://adventofcode.com/2018/) and log in, thats it! ðŸ
 
  - [Day 1 Solution](https://github.com/riffAt2013/adventOfCode2018/blob/master/Day1/solve.py)
  - [Day 2 Solution](https://github.com/riffAt2013/adventOfCode2018/blob/master/Day2/solve.py)
+ - [Day 3 Solution](https://github.com/riffAt2013/adventOfCode2018/blob/master/Day3/solve.py)
 
