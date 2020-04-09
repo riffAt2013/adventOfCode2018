@@ -51,7 +51,7 @@ def part02():
         # if it is exactly their length * weight then we are done
 
         for each_point in locationClaimers.keys():
-            if len(locationClaimers[each_point]) == 1: uniqueLocationClaimers[each_point].add(locationClaimers[each_point].key())
+            if len(locationClaimers[each_point]) == 1: uniqueLocationClaimers[each_point].add(locationClaimers[each_point])
         
         for each_point in uniqueLocationClaimers.keys(): print(f"{uniqueLocationClaimers[each_point]} --> {each_point}")
 
