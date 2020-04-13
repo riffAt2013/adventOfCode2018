@@ -28,8 +28,10 @@ def partTwo():
             print(sum)
 
             if sum in distinct_sum:
-                print(f"Final result would be {sum}")
-    
+                return sum
+   
+
+
     
     
     
