@@ -1,7 +1,7 @@
 from collections import defaultdict
 
 inputFile = open(
-    r'C:\Users\RIFAT\Documents\adventOfCode2018\Day2\input.txt', "r")
+    r'Day2\input.txt', "r")
 lines = inputFile.readlines()
 
 
@@ -60,4 +60,4 @@ def part02():
 
 
     
-
+part02()
