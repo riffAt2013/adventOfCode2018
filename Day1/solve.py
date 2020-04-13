@@ -1,4 +1,4 @@
-inputFile = open('input.txt', "r")
+inputFile = open('Day1\input.txt', "r")
 lines = inputFile.readlines()
 
 def partOne():
@@ -28,11 +28,7 @@ def partTwo():
             print(sum)
 
             if sum in distinct_sum:
-                return sum
-   
-
-result = partTwo()
-print(result)
+                print(f"Final result would be {sum}")
     
     
     
